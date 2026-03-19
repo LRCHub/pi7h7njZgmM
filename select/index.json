@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "disco light",
+  "base_artist": "Shibayan",
+  "createdAt": "2026-03-19T01:46:00.734655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disco Light - & Me Remix",
+      "artist": "Anthony Rother",
+      "has_synced": false,
+      "path": "select/01_Disco_Light_-_&_Me_Remix_Anthony_Rother.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "disco light (feat. Rainych)",
+      "artist": "Shibayan",
+      "has_synced": false,
+      "path": "select/02_disco_light_(feat._Rainych)_Shibayan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Disco Light",
+      "artist": "Anthony Rother",
+      "has_synced": false,
+      "path": "select/03_Disco_Light_Anthony_Rother.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Disco Light (video edit)",
+      "artist": "Anthony Rother",
+      "has_synced": false,
+      "path": "select/04_Disco_Light_(video_edit)_Anthony_Rother.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disco Light (original)",
+      "artist": "Anthony Rother",
+      "has_synced": true,
+      "path": "select/05_Disco_Light_(original)_Anthony_Rother.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Disco Light",
+      "artist": "Anthony Rother",
+      "has_synced": true,
+      "path": "select/06_Disco_Light_Anthony_Rother.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "disco light (feat. Rainych)",
+      "artist": "ShibayanRecords/Rainych",
+      "has_synced": false,
+      "path": "select/07_disco_light_(feat._Rainych)_ShibayanRecords_Rainych.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Disco Light (video edit)",
+      "artist": "Rother, Anthony",
+      "has_synced": false,
+      "path": "select/08_Disco_Light_(video_edit)_Rother,_Anthony.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Disco Light (& Me remix)",
+      "artist": "Rother, Anthony",
+      "has_synced": false,
+      "path": "select/09_Disco_Light_(&_Me_remix)_Rother,_Anthony.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "disco light (feat. rainych)",
+      "artist": "shibayan rainych",
+      "has_synced": false,
+      "path": "select/10_disco_light_(feat._rainych)_shibayan_rainych.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "disco light (feat. Rainych)",
+      "artist": "ShibayanRecords",
+      "has_synced": false,
+      "path": "select/11_disco_light_(feat._Rainych)_ShibayanRecords.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "disco light",
+      "artist": "Shibayan",
+      "has_synced": false,
+      "path": "select/12_disco_light_Shibayan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "disco light",
+      "artist": "Shibayan feat. Rainych",
+      "has_synced": false,
+      "path": "select/13_disco_light_Shibayan_feat._Rainych.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "disco light (feat. Rainych)",
+      "artist": "Shibayan",
+      "has_synced": false,
+      "path": "select/pl_01_disco_light_(feat._Rainych)_Shibayan.txt"
+    }
+  ]
+}
